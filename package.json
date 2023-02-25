@@ -1,0 +1,12 @@
+{
+  "name": "menuburger",
+  "version": "1.0.0",
+  "description": "26.00 MenuBurger",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
